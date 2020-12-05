@@ -1861,11 +1861,10 @@ i, .section-title > h2.sub-heading > span, .tab-content .tab-pane.active, .scrol
 }
 
 .home-slider .slide-content > h1.heading {
-  font-size: 56px;
-  line-height: 63px;
-  font-weight: 300;
+  font-size: 75px;
+  line-height: 100px;
   text-transform: capitalize;
-  padding-bottom: 20px;
+  padding-bottom: 100px;
 }
 
 @media (max-width: 767px) {
@@ -4240,7 +4239,7 @@ i, .section-title > h2.sub-heading > span, .tab-content .tab-pane.active, .scrol
 }
 
 .header-logo img {
-  width: 180px;
+  width: 900px;
 }
 
 /* ---Main Header--- */
@@ -4543,7 +4542,7 @@ i, .section-title > h2.sub-heading > span, .tab-content .tab-pane.active, .scrol
 }
 
 .footer-widgets_area .logo img {
-  width: 158px;
+  width: 250px;
 }
 
 .footer-widgets_area p.short-desc {
